@@ -3,5 +3,5 @@ Version: 1
 Maintainer: Erik Staats
 Architecture: all
 Description: Erik's DEvelopment Environment (EDEE)
-Depends: make
+Depends: git, make, vim
 
